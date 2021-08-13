@@ -1,5 +1,5 @@
 {
-  "name": "vue-task-tracker",
+  "name": "vue3-boilerplate",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,6 +23,7 @@
     "eslint-plugin-vue": "^7.0.0",
     "node-sass": "^4.12.0",
     "prettier": "^2.2.1",
-    "sass-loader": "^8.0.2"
+    "sass": "^1.37.5",
+    "sass-loader": "^10.2.0"
   }
 }
