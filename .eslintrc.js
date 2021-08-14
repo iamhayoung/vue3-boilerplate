@@ -25,7 +25,6 @@ module.exports = {
         arrowParens: 'avoid',
         endOfLine: 'auto',
         trailingComma: 'all',
-        printWidth: 100,
       },
     ],
   },
