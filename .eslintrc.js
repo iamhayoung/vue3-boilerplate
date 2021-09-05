@@ -15,7 +15,7 @@ module.exports = {
     'no-unused-vars': 'warn',
     quotes: ['warn', 'single'], // single quotes가 아닐 시 warn
     semi: ['error', 'always'], // 구문 끝에 항상 semicolon이 있어야함. 없을 시 error
-    indent: ['error', 2], // indent 크기가 2가 아닐 때, error
+    indent: 'off', // eslint에서는 indent 체크 해제 (prettier에서 수행)
     'prettier/prettier': [
       'error',
       {
